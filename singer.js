@@ -1,5 +1,5 @@
-const clientId = '215cd5f8ad104329954abcc52e019a26';
-const clientSecret = 'b58bfb03b17d408a972d00931f7bacb5';
+const clientId = '116b67c5073e4fb4b4afe79d0486a9f2';
+const clientSecret = '57cf86adc3814a7ab8acedbb9fc86d35';
 
 const artistIds = [
     '2oSONSC9zQ4UonDKnLqksx',
