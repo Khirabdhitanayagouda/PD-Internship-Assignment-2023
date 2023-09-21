@@ -1,0 +1,80 @@
+body{
+    scroll-behavior: unset;
+  }
+   #artist-list {
+      margin: 10px;
+      background-color: rgb(221, 221, 239);
+      padding: 10px;
+      justify-content: center;
+       border: 2px solid rgb(123, 139, 0);
+      border-radius: 15px;
+       display: flex;
+       width: 100%;
+       flex-wrap: wrap;
+       flex-direction: row;
+    } 
+    /* Reset some default styles */
+   body, h1, ol {
+    margin: 0;
+    padding: 0;
+  } 
+  
+  /* Apply a background color and center the content */
+   body {
+    background-color:#28ca4e77;
+    color :black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  } 
+  
+  /* Style the header */
+   h2 {
+    font-size: 36px;
+    font-size: large;
+    color : black;
+    margin-bottom: 10px;
+    
+  } 
+  
+  
+  
+  
+   /* Style artist names */
+  .artist h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  } 
+  
+  .card{
+    padding: 10px;
+    margin: 10px;
+    scroll-behavior: unset;
+    background-color: #28ca4e77;
+    border: 10px;
+    width: 150px;
+    border-radius: 15px;
+    height: 40vh; 
+    flex-wrap: wrap;
+    border-color: rgb(18, 15, 15);
+    display: block;
+  }
+  .image img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  .paragraph h1{
+    font-size: medium;
+    padding: 10px;
+  }
+  .paragraph p{
+    font-size: small;
+    padding: 0px;
+    margin: 0px;
+  }
